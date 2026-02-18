@@ -31,7 +31,7 @@ export default class QsydFileExplorerCmp extends LightningElement {
 	 * Internal properties
 	 */
 	_error;
-	_action;
+	_action = '';
 
 	/**
 	 * Private properties
